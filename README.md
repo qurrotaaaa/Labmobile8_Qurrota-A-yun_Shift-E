@@ -5,7 +5,8 @@ Nama: Qurrota A'yun
 Jurusan: Informatika
 
 1. Tambah Data (Create)
-![image](https://github.com/user-attachments/assets/73445a91-3b60-4a5f-af6e-253cebcee2d0)
+
+   ![image](https://github.com/user-attachments/assets/73445a91-3b60-4a5f-af6e-253cebcee2d0)
 
 Penjelasan:
 - Modal form untuk menambah data mahasiswa baru
@@ -18,6 +19,8 @@ Penjelasan:
 - Setelah berhasil tambah, modal tertutup dan list terupdate
 
 2. Tampil Data (Read)
+
+
    ![image](https://github.com/user-attachments/assets/405fa51b-7fbc-40a0-8f11-11b0fe7c4920)
    
 Penjelasan:
@@ -29,6 +32,8 @@ Penjelasan:
 - List akan auto-refresh setiap ada perubahan data
 
 3. Edit Data (Update)
+
+   
 ![image](https://github.com/user-attachments/assets/3c0b2c14-3b68-41b9-a957-232cd6c2a0b0)
 
 Penjelasan:
@@ -40,6 +45,8 @@ Penjelasan:
 - Setelah berhasil edit, modal tertutup dan list terupdate
 
 4. Konfirmasi Hapus (Delete)
+
+   
 ![image](https://github.com/user-attachments/assets/cba0e8dc-75e9-40ce-aed5-6d57c390184c)
 
 Penjelasan:
@@ -51,6 +58,8 @@ Penjelasan:
 - Mencegah penghapusan data yang tidak disengaja
 
 5. Hasil Setelah Hapus
+
+   
 ![image](https://github.com/user-attachments/assets/8783fa60-759d-4dd4-be45-4dee889cbc25)
 
 Penjelasan:
